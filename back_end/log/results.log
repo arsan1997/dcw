@@ -1,0 +1,42 @@
+2022-03-27 14:28:26 [main.js] info: Listening on port 3001
+2022-03-27 14:31:42 [main.js] info: Listening on port 3001
+2022-03-27 14:31:50 [main.js] info: Listening on port 3001
+2022-03-27 14:32:50 [main.js] info: Listening on port 3001
+2022-03-27 14:32:52 [main.js] info: Add data success.
+2022-03-27 14:33:14 [main.js] info: Listening on port 3001
+2022-03-27 14:36:42 [main.js] info: Listening on port 3001
+2022-03-27 14:45:34 [main.js] info: Listening on port 3001
+2022-03-27 14:45:40 [main.js] info: Listening on port 3001
+2022-03-27 14:45:42 [main.js] info: Listening on port 3001
+2022-03-27 14:45:44 [main.js] info: Listening on port 3001
+2022-03-27 14:49:32 [main.js] info: Listening on port 3001
+2022-03-27 14:49:33 [main.js] info: Listening on port 3001
+2022-03-27 14:49:36 [main.js] info: Add data success.
+2022-03-27 14:50:07 [main.js] info: Add data success.
+2022-03-27 14:50:42 [main.js] info: Successfully get all data.
+2022-03-27 14:51:43 [main.js] info: Listening on port 3001
+2022-03-27 14:51:47 [main.js] info: Show all data.
+2022-03-27 14:51:53 [main.js] info: Show data by :id.
+2022-03-27 14:52:00 [main.js] info: Listening on port 3001
+2022-03-27 14:52:03 [main.js] info: Show data by id.
+2022-03-27 14:52:58 [main.js] info: Update success.
+2022-03-27 14:53:21 [main.js] info: Data not found or no update data.
+2022-03-27 14:53:32 [main.js] info: Data not found or no update data.
+2022-03-27 14:54:04 [main.js] info: Not found.
+2022-03-27 14:54:39 [main.js] info: Listening on port 3001
+2022-03-27 14:54:41 [main.js] info: Data not found.
+2022-03-27 14:54:53 [main.js] info: Data not found.
+2022-03-27 14:55:04 [main.js] info: Listening on port 3001
+2022-03-27 14:55:06 [main.js] info: Data not found.
+2022-03-27 14:55:12 [main.js] info: Delete success.
+2022-03-30 23:17:27 [main.js] info: Listening on port 3001
+2022-03-30 23:18:36 [main.js] info: Listening on port 3001
+2022-03-30 23:18:56 [main.js] info: Add data success.
+2022-03-30 23:20:04 [main.js] info: Add data success.
+2022-03-30 23:20:14 [main.js] error: Please provide data.
+2022-03-30 23:20:22 [main.js] error: Please provide data.
+2022-03-30 23:20:50 [main.js] error: Please provide data.
+2022-03-30 23:21:32 [main.js] info: Listening on port 3001
+2022-03-30 23:21:38 [main.js] error: Please provide data.
+2022-03-30 23:22:14 [main.js] info: Listening on port 3001
+2022-03-30 23:22:21 [main.js] error: Please provide data.
